@@ -1,0 +1,10 @@
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\SalonDeBelleza.BL.dll.config
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\SalonDeBelleza.BL.dll
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\SalonDeBelleza.BL.pdb
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\EntityFramework.dll
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\EntityFramework.xml
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\obj\Debug\SalonDeBelleza.BL.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\obj\Debug\SalonDeBelleza.BL.dll
+C:\Users\James\Desktop\Salon de belleza\SalonDeBelleza\SalonDeBelleza.BL\obj\Debug\SalonDeBelleza.BL.pdb
